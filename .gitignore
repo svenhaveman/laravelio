@@ -1,0 +1,15 @@
+/bootstrap/compiled.php
+/vendor
+.DS_Store
+.vagrant
+.idea
+public/.sass-cache
+tags
+app/tests/_log/*
+app/tests/_data/*
+app/storage/cache/*
+app/storage/views/*
+app/storage/debugbar
+stylesheets
+vagrant_ansible_inventory_default
+/vagrant-chef
